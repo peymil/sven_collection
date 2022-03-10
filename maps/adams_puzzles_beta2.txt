@@ -1,0 +1,84 @@
+Welcome to Adam's Puzzles
+By Adam Reece
+
+Last Updated: 22nd February, 2009
+Version: Beta 2
+
+A lot of work goes in to producing a map and it's content. Please do not steal content from this
+map without permission from the original creator. If you ask, we will normally say yes. :)
+
+
+.: Description :.
+
+Well, you must go through a series of rooms. Each room has 4 paths. 1 of them allows you to
+continue, the other 3 will kill you. To determine which door allows you to continue you must solve
+a small puzzle shown in the room.
+
+You get a special treat at the end! (not just porn)
+
+
+.: Credits :.
+
+Map created by Adam Reece.
+http://www.reece-eu.net
+
+"Moonlight Passage" sky map by dash at Wadfather.
+http://www.planethalflife.com/wadfather/
+
+Some of the music came from these Turrican's maps (thank you).
+Maps such as omg2beta2, secretcity2, secretcity4beta, and secretcity5beta.
+
+omnomnom to these people for providing their images in the spank bank:
+Myself; Decca; Jolene; z4nd; Spekkof; Ewokki; Sgt. Crzyjay; BostonGeorge; [criz]
+
+
+.: Testers :.
+
+Thanks to the following testers for their time helping me test this brilliant map (in order of
+when they tested it).
+
+Sorry if I haven't listed you here and you did test it. Give me a poke (contact me) and I will
+amend the tests credits for the next map release.
+
+
+---[ Development Versions ]---
+
+Decca
+Jolene
+z4nd
+Amnizu
+Diagmato
+RetroFish
+TheMonkeyman
+[criz]
+Boothk
+Bostongeorge
+Boogerman
+ruM
+
+------[ Alpha Versions ]------
+
+Decca
+z4nd
+x25killa
+Linderella
+Sgt. Crzyjay
+Sgt. Unknown
+Boogerman
+Snickers
+
+
+-------[ Beta Versions ]------
+
+omnomnom
+
+
+.: Thanks :.
+
+Thank you for downloading and playing this map, I hope you enjoy playing this map as much as I did
+creating it.
+
+Thanks to all the members and staff at Multiplay's Sven Co-op community for supporting this map.
+http://sc.multiplay.co.uk/ -- #mpuksc at QuakeNet.
+
+Adam Reece [adam@reece.myzen.co.uk]

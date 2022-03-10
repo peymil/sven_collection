@@ -1,0 +1,32 @@
+Welcome to Adam's Puzzles
+By Adam Reece
+
+Last Updated: 22nd February, 2009
+Version: Beta 2
+
+A lot of work goes in to producing a map and it's content. Please do not steal content from this
+map without permission from the original creator. If you ask, we will normally say yes. :)
+
+
+.: Description :.
+
+Well, you must go through a series of rooms. Each room has 4 paths. 1 of them allows you to
+continue, the other 3 will kill you. To determine which door allows you to continue you must solve
+a small puzzle shown in the room.
+
+You get a special treat at the end! (not just porn)
+
+
+.: Thanks :.
+
+Thank you for downloading and playing this map, I hope you enjoy playing this map as much as I did
+creating it.
+
+Thanks to all the members and staff at Multiplay's Sven Co-op community for supporting this map.
+http://sc.multiplay.co.uk/ -- #mpuksc at QuakeNet.
+
+*** credits and testers are in "adams_puzzles_beta1.txt" within the Sven Co-op "maps" folder ***
+
+If I make this MOTD any longer you'll all get crap "reliable channel overflowed" errors. GG Valve!
+
+Adam Reece [adam@reece.myzen.co.uk]

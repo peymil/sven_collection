@@ -1,0 +1,19 @@
+Keen Race 2017 by: Lossy
+Originally by: Keen, Soctom, RNG. 
+
+/!\ Note: Players with more than 120 ping may experience difficultly with obstacles.
+
+Description: 
+Keen Race is a racing map as you might have guessed, you are a vehicle. You must strafe, jump crouch and maneuver your way around insta-kill obstacles all the way through the race-course until you get to the finish line! This map was inspired by a YouTube video of the old game Lotus 2.
+
+How to Play: 
+=> Refrain from walking forward or backwards. Let the push guide you. Worry about obstacles and interative objects.
+=> Choose a speed setting for different challenges (Fast = Default).
+=> Explore, play music, collect all coins, flowers, and orbs to find a secret speed setting. 
+
+Laps:
+Lap 1: Easy, less obstacles, gives you a basis on the lap. 
+Lap 2: Moderate, more obstacles 
+Lap 3: Hard <3, Requires most reaction, agility, and hand-eye coordination, along with an extention in the lap.
+
+Proper credits in readme.
